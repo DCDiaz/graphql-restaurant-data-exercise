@@ -1,7 +1,7 @@
 # GraphQL Restaurant Data Exercise
 
 ## Description
-This is an exercise to demonstrate the practice of using GraphQL to query and mutate specific data in a database.
+This is a programming exercise to demonstrate the practice of using GraphQL to query and mutate specific data in a database.
 
 ## Roadmap
 - While the current code seems to be stable, it definitely could be refactored for efficiency.
